@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+waqar+ahmad)](https://git.io/typing-svg)
 
-<!-- ## Stacks
+ ## Stacks
 
 [Solidity]: https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=Solidity
 [Solidity-url]: https://soliditylang.org/
@@ -43,15 +43,11 @@ Here are some ideas to get you started:
 ![docker](https://img.shields.io/badge/-docker-000?&style=for-the-badge&logo=docker)
 ![postman](https://img.shields.io/badge/-postman-000?&style=for-the-badge&logo=postman)
 ![obsidian](https://img.shields.io/badge/-obsidian-000?&style=for-the-badge&logo=obsidian) -->
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=waqarahmad134&label=Profile%20views&color=0e75b6&style=flat" /> </p>-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=waqarahmad134&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 <h2>Contact Me</h2>
 <div align="center">
 <div>
-  </a>
-  <a href="https://www.open2code.com/">
-    <img src="https://img.shields.io/badge/Website-waqar-ahmad-blue" width="160px" alt="Mail Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/waqar134/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
