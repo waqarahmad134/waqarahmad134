@@ -1,20 +1,5 @@
 ### Hi there 👋
 
-
-**waqarahmad134/waqarahmad134** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+waqar+ahmad)](https://git.io/typing-svg)
 
  ## Stacks
@@ -48,5 +33,3 @@ Here are some ideas to get you started:
   </div>
 </div>
 <br>
-
-<img src="https://camo.githubusercontent.com/b867e04377eea646939445ce4e0565253428256abc39c6d32d7b67aab3160d18/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572" theme=tokyonight width="100%"/>
