@@ -20,12 +20,12 @@
 
 <h2>Contact Me</h2>
 <div align="center">
-<div>
-  <a href="https://www.linkedin.com/in/waqar134/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:waqar4704649@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
-  </a>
+  <div>
+    <a href="https://www.linkedin.com/in/waqar134/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:waqar4704649@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+    </a>
   </div>
 </div>
