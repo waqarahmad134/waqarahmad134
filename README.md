@@ -32,7 +32,7 @@
 ### My Stats 🌱
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=waqarahmad134)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waqarahmad134  &layout=compact&theme=vision-friendly-default)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=waqarahmad134&margin-w=4&column=7)
 
