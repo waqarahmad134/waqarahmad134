@@ -10,7 +10,7 @@ const Navbar = () => {
           icon={faUserSecret}
           className="icn hover:border-b-4 border-red-600 rounded-md"
         />
-        <span className="font-bold font-dancingScript">{"<Soumen/>"} </span>
+        <span className="font-bold font-dancingScript">{"<Waqar/>"} </span>
       </div>
 
       <div className="w-auto">

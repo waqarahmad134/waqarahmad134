@@ -16,7 +16,7 @@ const Home = () => {
           Hey there!
         </span>
         <span className=" text-5xl font-extrabold relative font-dm-serifDisplay tracking-wider text-amber-400">
-          I am Soumen TALUKDER
+          I am Waqar Ahmad
         </span>
       </>
       <span className=" text-2xl text-center relative font-genos">

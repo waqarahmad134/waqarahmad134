@@ -7,7 +7,10 @@ module.exports = {
     "./pages/**/*.{html,js,jsx}",
   ],
   theme: {
-    extend: {},
+    extend: {backgroundImage: {
+      'avatar': "url('/assets/Images/waqarahmad/jpg')",
+     
+    }},
   },
   plugins: [],
 };

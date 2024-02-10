@@ -23,7 +23,7 @@ const About = () => {
             can find me exploring new hiking trails or experimenting with a new
             recipe in the kitchen.
           </div>
-          <Link to="/resume">
+          {/* <Link to="/resume">
             {" "}
             <div
               className="g-btn-2 hover:scale-110"
@@ -31,7 +31,7 @@ const About = () => {
             >
               Resume
             </div>
-          </Link>
+          </Link> */}
         </div>
       </div>
     </div>

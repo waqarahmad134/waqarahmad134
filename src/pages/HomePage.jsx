@@ -16,7 +16,7 @@ const HomePage = () => {
       <SideBar />
       <Home />
       <About />
-      <Education />
+      {/* <Education /> */}
       <Skills />
       <Projects />
       <Contact />

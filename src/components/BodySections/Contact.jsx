@@ -97,7 +97,7 @@ relative bg-cover bg-no-repeat text-white"
               </button>
               <span>or</span>
               <a
-                href="mailto:soumen.sagor@gmail.com"
+                href="mailto:waqardevops134@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-3 rounded bg-green-600 font-semibold flex gap-1 items-center hover:bg-amber-400 hover:text-black"
@@ -132,13 +132,14 @@ relative bg-cover bg-no-repeat text-white"
           </div>
         )}
       </div>
-      <div className="footer w-full h-1/6 bg-black/50 flex flex-col items-center justify-center text-amber-200/70">
+      <footer className="footer w-full h-1/6 bg-black/50 flex flex-col items-center justify-center text-amber-200/70">
         <span>A Vite+TailWindCSS+React App</span>
         <span className=" font-semibold">
-          Designed and Developed by SOUMEN TALUKDER with ❤
+          Designed and Developed by Waqar Ahmad with ❤
         </span>
-        <span>All Rights Reserved@2023</span>
-      </div>
+        <span>&copy;All Rights Reserved@2024</span>
+        <p>&copy; Copyright 2011. All Rights Reserved.</p>
+      </footer>
     </div>
   );
 };

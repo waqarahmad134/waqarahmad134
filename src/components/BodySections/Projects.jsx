@@ -42,7 +42,7 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
                 </a>
                 <a
                   className="card-button p-3 rounded-lg bg-green-600 font-semibold flex gap-2 items-center  hover:bg-amber-400 hover:text-black"
-                  href="https://github.com/talukdersoumen/rick_and_morty-react"
+                  href="https://github.com/waqarahmad134?tab=repositories"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
