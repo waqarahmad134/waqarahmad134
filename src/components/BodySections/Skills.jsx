@@ -11,7 +11,7 @@ relative bg-cover bg-no-repeat bg-fixed text-white"
         ..// skills
       </div>
 
-      <div className="flex w-9/12 gap-16 justify-center items-center">
+      <div className="grid sm:grid-cols-3 w-9/12 gap-16">
         <div className="skill-sec1 flex flex-col text-left gap-5 pt-6 pb-6 pr-10 pl-10 rounded bg-white/10 hover:bg-black/40">
           <span className="text-3xl font-bold border-b-2 border-amber-400 p-2 text-amber-400">
             Web Technologies

@@ -4,55 +4,39 @@ import { faUserSecret } from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
   return (
-    <div className="navBar sticky top-0 w-full flex justify-between px-12 py-5 bg-black text-amber-400">
+    <header className="sticky z-50 top-0 w-full flex justify-between items-center px-12 py-5 bg-black text-amber-400">
       <div className=" text-3xl flex gap-2 text-black-400">
         <FontAwesomeIcon
           icon={faUserSecret}
-          className="icn hover:border-b-4 border-red-600 rounded-md"
+          className="hover:border-b-4 border-red-600 rounded-md"
         />
         <span className="font-bold font-dancingScript">{"<Waqar/>"} </span>
       </div>
-
-      <div className="w-auto">
-        <div className="flex gap-6 text-lg font-semibold">
-          {/* <div className="btn cursor-pointer home hover:border-b-4 border-red-600 rounded-md">
-            {" "}
-            <a href="#home" rel="noopener noreferrer">
-              Home
-            </a>
-          </div> */}
-          <div className="btn cursor-pointer about hover:border-b-4 border-red-600 rounded-md">
+      <nav className="hidden sm:block w-auto">
+        <ul className="flex gap-6 text-lg font-semibold cursor-pointer [&>li]:rounded-md">
+          <li className="border-b-4 border-b-transparent hover:border-red-600 hover:border-b-4">
             <a href="#about" rel="noopener noreferrer">
               About
             </a>
-          </div>
-          <div className="btn cursor-pointer education hover:border-b-4 border-red-600 rounded-md">
-            {" "}
-            <a href="#education" rel="noopener noreferrer">
-              Education
-            </a>
-          </div>
-          <div className="btn cursor-pointer skills hover:border-b-4 border-red-600 rounded-md">
-            {" "}
+          </li>
+          <li className="border-b-4 border-b-transparent hover:border-red-600 hover:border-b-4">
             <a href="#skills" rel="noopener noreferrer">
               Skills
             </a>
-          </div>
-          <div className="btn cursor-pointer projects hover:border-b-4 border-red-600 rounded-md">
-            {" "}
+          </li>
+          <li className="border-b-4 border-b-transparent hover:border-red-600 hover:border-b-4">
             <a href="#projects" rel="noopener noreferrer">
               Projects
             </a>
-          </div>
-          <div className="btn cursor-pointer contact hover:border-b-4 border-red-600 rounded-md">
-            {" "}
+          </li>
+          <li className="border-b-4 border-b-transparent hover:border-red-600 hover:border-b-4">
             <a href="#contact" rel="noopener noreferrer">
               Contact
             </a>
-          </div>
-        </div>
-      </div>
-    </div>
+          </li>
+        </ul>
+      </nav>
+    </header>
   );
 };
 

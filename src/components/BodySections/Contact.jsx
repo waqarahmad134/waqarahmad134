@@ -30,12 +30,12 @@ const Contact = () => {
 relative bg-cover bg-no-repeat text-white"
       id="contact"
     >
-      <div className="flex w-9/12 h-5/6 justify-center items-center">
+      <div className="flex justify-center items-center">
         <div className="ContactBody-title text-3xl font-extrabold absolute right-10 top-6 font-mono  text-amber-400">
           ..// contact
         </div>
         <form onSubmit={handleFormSubmit}>
-          <div className="flex flex-col gap-4 pt-6 pb-6 pl-10 pr-10 bg-black/70 rounded">
+          <div className="flex flex-col gap-4 bg-black/70 rounded">
             <div className="flex gap-4">
               {" "}
               <div className="flex flex-col gap-2">
