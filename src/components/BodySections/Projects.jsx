@@ -59,7 +59,7 @@ relative bg-cover bg-no-repeat bg-fixed text-black"
         </div>
       </div>
       <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
-        Coming Soon
+        Coming Soon 1
       </div>
       <div className="bg-black/50 rounded flex items-center justify-center font-semibold text-xl text-white hover:bg-black/80 hover:text-amber-400 cursor-pointer">
         Coming Soon
