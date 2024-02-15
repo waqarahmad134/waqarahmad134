@@ -1,14 +1,15 @@
 import React from "react";
+import about from "../../assets/Images/about_me.webp"
 const About = () => {
   return (
     <div
       className="AboutBody flex justify-center items-center gap-2.5 relative h-screen
        w-full text-white font-bold bg-cover bg-no-repeat"
-      id="about"
+      id="about1"
     >
       <div className="grid sm:grid-cols-2 w-5/6">
         <div>
-          <img src="../public/images/undraw_join_re_w1lh.svg" alt="" />
+          <img src={about} alt="" />
         </div>
         <div>
           <div className="text-center text-3xl text-amber-400 my-3">

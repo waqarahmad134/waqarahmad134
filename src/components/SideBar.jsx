@@ -6,7 +6,6 @@ import {
   faWhatsapp,
 } from "@fortawesome/free-brands-svg-icons";
 import { faFileLines, faEnvelope } from "@fortawesome/free-solid-svg-icons";
-import { Link } from "react-router-dom";
 
 const SideBar = () => {
   return (
